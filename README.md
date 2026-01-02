@@ -1,2 +1,3 @@
 # srujanhrudhay.github.io
-My portfolio site
+Name : Geddam Srujan Hrudhay
+
